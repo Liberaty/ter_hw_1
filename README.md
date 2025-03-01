@@ -10,11 +10,11 @@
 ### Чек-лист готовности к домашнему заданию
 
 1. Скачайте и установите **Terraform** версии >=1.8.4 . Приложите скриншот вывода команды ```terraform --version```.\
-***Ответ:*** img/chek-list-1.png
+***Ответ:*** [chek-list-1.png](https://github.com/Liberaty/ter_hw_1/blob/master/img/chek-list-1.png)
 2. Скачайте на свой ПК этот git-репозиторий. Исходный код для выполнения задания расположен в директории **01/src**.\
-***Ответ:*** img/chek-list-2.png
+***Ответ:*** [chek-list-2.png](https://github.com/Liberaty/ter_hw_1/blob/master/img/chek-list-2.png)
 3. Убедитесь, что в вашей ОС установлен docker.\
-***Ответ:*** img/chek-list-3.png
+***Ответ:*** [chek-list-3.png](https://github.com/Liberaty/ter_hw_1/blob/master/img/chek-list-3.png)
 
 ------
 
